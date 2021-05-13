@@ -1,0 +1,13 @@
+python
+https://www.python.org/downloads/
+
+pip
+https://pip.pypa.io/en/stable/installing/
+
+selenium chromedriver:
+https://chromedriver.chromium.org/downloads
+(put the .exe in the same directory as chrome.exe)
+
+modules
+selenium --> pip install selenium (https://pypi.org/project/selenium/)
+bs4 --> pip install beautifulsoup4 (https://pypi.org/project/beautifulsoup4/)
