@@ -133,7 +133,7 @@ downloads.insert(0, str(datetime.now()))
 graphs_views.insert(0, str(datetime.now()))
 
 #all csv will be saved to same directory, 
-working_dir = r"Q:\Automation\Python Scripts\For GITHUB\Coastal Monitoring Webscrape"
+working_dir = ""
 
 #dataset downloads
 down = "dataset_downloads.csv"
